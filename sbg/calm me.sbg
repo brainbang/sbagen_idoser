@@ -1,0 +1,14 @@
+## Calm ME::
+## Antianxiety (Moderate)
+## 20 Minutes
+## Almost everyone suffers from at least small bouts of anxiety. Some people have nearly crippling battles with being anxious almost every day. Calm ME was designed to work on two levels: If you feel anxious or are having any form of anxiety attack, Calm ME will help to calm you and assist you in getting past it. It also works very well to prevent an anxiety attack: Great for public speaking, heading into large crowds or parties, or just getting through the day. In one study thirty patients experienced relaxation states of 80-100% after five minutes. Eight patients had blood tests before and after the sessions and showed improved beta-endorphin levels of 10-50%. This is some of the best results we have seem from formal dose testing.
+
+alpha10: pink/40 300+10/60
+anxiety5: pink/10 300+5/90
+alloff:  -
+
+NOW alpha10
++00:04:00 alpha10 ->
++00:06:00 anxiety5
++00:19:00 anxiety5 ->
++00:20:00 alloff

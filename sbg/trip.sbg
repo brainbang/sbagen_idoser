@@ -1,0 +1,23 @@
+## Trip::
+## Recreational (Very Strong)
+## 35 Minutes
+## This is a pure model recreation of a hallucinogenic experience. You will feel open-eye visual effects, lights gain auras, star-pattern effects, rainbowing around lighting, lights seem brighter and often more beautiful. You may experience feelings of time-dilation, belonging and connection, and increased emotional sensitivity. Gain a new perspective on current lifestyle and behaviors, feelings of connection with those around you, noticing things which are normally ignored or taken for granted, feelings of wonder, spirit, joy, sadness, despair, religious awakening, contentment and possibly latent psychological feelings can come out. Often referred to as our most powerful and life-altering dose, it is for this reason we DO NOT recommend it for everyone. Treat it as you would any other long trip. One of the most interesting effects is the feeling of awakening for the first time ever from a previous state of sleep, of liberation from what is now seen as a life-long state of bondage. Paradoxically, it is this new awareness, which feels normal and natural, and the previous fog, which is seen to have been unreal all along. The seeker is convinced that, once gained, this awareness is impossible to lose, but inexplicably by the next day it is just a memory. Be very careful - your life may change.
+
+alpha10:  pink/50 300+10/50
+opiate:   pink/40 300+2.5/60
+vision3:  pink/30 300+3/70
+vision4:  pink/20 300+4/80
+euphoria: pink/10 300+.9/90
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:07:00 opiate
++00:12:00 opiate ->
++00:13:00 vision3
++00:20:00 vision3 ->
++00:21:00 vision4
++00:25:00 vision4 ->
++00:28:00 euphoria
++00:33:00 euphoria ->
++00:35:00 alloff

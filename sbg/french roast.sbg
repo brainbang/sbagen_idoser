@@ -1,0 +1,16 @@
+## French Roast::
+## Energizer (Moderate)
+## 5 Minutes
+## French Roast is the perfect Early Morning pick-me-up, or a late night boost when you need a few more hours of open eyes. This dose takes you from an existing state of blah to a normal mid-day condition of awake. Use it in the morning just as you wake up to start the day off right. French Roast synchronizes your brain to 14z, or the state of being alert and awake.
+
+sleepy8hz:   pink/50 100+8/50
+sleepy10hz:  pink/50 100+10/50
+doorway12hz: pink/50 200+12/50
+alert14hz:   pink/50 400+14/50
+alloff:      -
+
+NOW       sleepy8hz
++00:02:00 sleepy10hz
++00:03:00 doorway12hz
++00:04:00 alert14hz
++00:05:00 alloff

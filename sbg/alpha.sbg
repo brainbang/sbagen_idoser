@@ -1,0 +1,20 @@
+## Alpha::
+## Pure (8 to 13 Hz)
+## 30 Minutes
+## This is produced when you are awake and fully conscious, but with your awareness focussed inside, such as when trying to remember something, or when your eyes are closed. For beginner meditation, etc, Alpha is the perfect starting point in moving forward in meditation. Alpha causes Slower brain waves that are conducive to creative problem solving, accelerated learning, mood elevation, stress reduction, etc, characterized by intuitive insights, creative juice, inspiration, motivation, daydreams etc. Relaxed, yet alert.
+
+h8:   pink/50 100+8/50
+h10:  pink/50 100+10/50
+h12:  pink/50 200+12/50
+h13:  pink/50 400+13/50
+alloff:      -
+
+NOW       h8
++00:05:00 h8 ->
++00:06:00 h10
++00:13:00 h10 ->
++00:14:00 h12
++00:22:00 h12 ->
++00:23:00 h13
++00:28:00 h13 ->
++00:30:00 alloff

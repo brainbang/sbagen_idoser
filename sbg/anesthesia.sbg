@@ -1,0 +1,23 @@
+## Anesthesia::
+## Sedative (VERY Strong)
+## 30 Minutes
+## Let's not beat around the bush: Anesthesia will mess you up. DO NOT get in a car after this dose! Not like you can, since the only thing you will want to do is drop to the floor and let the world swirl around you. Testers have called it a "short lived, but a crazy numbing experience." You can use it for any form of pain (toothache, headache, etc.) and it works great, or simply get it for a good example of what an i-doser dose can do. Just make sure your bed isn't far from your computer. Trust us.
+
+alpha10:    pink/50 300+10/50
+sleep3:     pink/20 300+3/80
+sleep2:     pink/20 300+2/80
+sleep1:     pink/20 300+1.5/80
+euphoria9:  pink/10 300+.9/90
+alloff:     -
+
+NOW alpha10
++00:03:00 alpha10 ->
++00:07:00 sleep3
++00:13:00 sleep3 ->
++00:14:00 sleep2
++00:18:30 sleep2 ->
++00:19:00 sleep1
++00:24:00 sleep1 ->
++00:24:30 euphoria9
++00:29:30 euphoria9 ->
++00:30:00 alloff

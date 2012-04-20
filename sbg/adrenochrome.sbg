@@ -1,0 +1,20 @@
+## ADRENOCHROME::
+## Recreational (Very Strong)
+## 30 Minutes
+## Adrenochrome is an oxidation product of adrenaline (ephinephrine, norepinephrine). It has achieved mythical status as a deliberately-ingested psychoactive -- boosted by H.S. Thompson's Fear and Loathing in Las Vegas. It is reputed to cause disorientation and hallucinations. USE AT YOUR OWN RISK!
+
+h5:   pink/0 100+.5/90
+h1:   pink/5 100+1/80
+h2:   pink/10 200+2/70
+h4:   pink/15 500+4/100
+alloff:      -
+
+NOW       h5
++00:05:00 h5 ->
++00:06:00 h1
++00:13:00 h1 ->
++00:14:00 h2
++00:22:00 h2 ->
++00:23:00 h4
++00:28:00 h4 ->
++00:30:00 alloff

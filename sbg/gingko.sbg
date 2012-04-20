@@ -1,0 +1,17 @@
+## Ginkgo::
+## Stimulant (Strong)
+## 30 Minutes
+## Our Ginkgo dose increases blood flow so your tissues and vital organs receive additional nutrients and oxygen. Increased blood flow to the brain has been shown to improve alertness, short-term memory, and the ability to concentrate. It may also relieve tinnitus, improve mood, and counteract depression. Ginkgo may also help: Heart disease, depression, dementia, leg cramps, and impotence due to poor blood flow, clogged arteries, and diabetes-related nerve damage.
+
+concentrate:	pink/50 100+11/50
+mood:		pink/30 15+15/70
+depress:	pink/0 100+1/100
+alloff:		-
+
+NOW concentrate
++00:05:00 concentrate ->
++00:09:00 mood
++00:16:00 mood ->
++00:20:00 depress
++00:29:00 depress ->
++00:30:00 alloff

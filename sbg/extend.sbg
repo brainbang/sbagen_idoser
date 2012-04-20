@@ -1,0 +1,21 @@
+## Extend::
+## Sexual (Moderate)
+## 20 Minutes
+## When the mood is right, you want and need to LAST! Extend is the perfect supplement to any sexual endeavor. Designed to be a quick dose right before sexual activity, it will leave you feeling refreshed, ready, and able to go all the way and more. Finish too soon? Can't finish at all? Never get started? Extend may be the dose you need.
+
+alpha10:       pink/50 300+10/50
+timerelease12: pink/30 150+12/70
+slowreflex14:  pink/20 150+14/80
+slowreflex15:  pink/10 150+15/90
+euphoria24:    pink/0 150+24/100
+alloff:        -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 timerelease12
++00:09:00 timerelease12 ->
++00:11:00 slowreflex14 ->
++00:16:00 slowreflex15 ->
++00:17:00 euphoria24
++00:19:00 euphoria24 ->
++00:20:00 alloff

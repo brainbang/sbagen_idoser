@@ -1,0 +1,20 @@
+## Theta::
+## Pure (4 to 8 Hz)
+## 30 Minutes
+## This is the region between sleep and wakefulness, in which dreaming and other dream-like or hypnagogic experiences occur.  It's that bit just before you actually fall asleep at night, or just before you are really awake in the morning. They say it's in this band that the unconscious talks to the conscious mind.  It also seems to be connected with psychic or ESP-type functioning. Found in states of deep relaxation, theta activity is also associated with bursts of creative insight, twilight sleep, learning and vivid mental imagery. It is also found in more advanced meditators.
+
+h4:   pink/50 100+4/50
+h5:   pink/50 100+5/50
+h7:   pink/50 200+7/50
+h8:   pink/50 400+8/50
+alloff:      -
+
+NOW       h4
++00:05:00 h4 ->
++00:06:00 h5
++00:13:00 h5 ->
++00:14:00 h7
++00:22:00 h7 ->
++00:23:00 h8
++00:28:00 h8 ->
++00:30:00 alloff

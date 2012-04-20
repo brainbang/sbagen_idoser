@@ -1,0 +1,26 @@
+## Tranquil::
+## Sedative (Semi-Moderate)
+## 30 Minutes
+## Tranquil is so hard to define we almost didn't approve it as a dose. Such an interesting one, Tranquil is. There were so many supporters of it, we had to include it. What it does NOT DO: Tranquil does not make you tired, it does not put you to sleep, and won't even make you drowsy. Tranquil is a soul dose. It eases your soul, harmonizes you with the earth, and space, and everything that is. Called the "mircale drug" around the offices, it just seems to melt you easily into the earth, warms your soul and heart, and covers you in invisible glow. So hard to describe, we can only beg you try it for yourself. Feel the warm soul experience.
+
+alpha10:      pink/50 300+10/50
+tranquil5:    pink/20 300+.5/80
+tranquil1:    pink/20 300+1/80
+tranquil2:    pink/20 300+2/80
+tranquil3:    pink/20 300+3/80
+tranquil4:    pink/20 300+4/80
+alloff:       -
+
+NOW alpha10
++00:03:00 alpha10 ->
++00:07:00 tranquil5
++00:11:00 tranquil5 ->
++00:12:00 tranquil1
++00:16:00 tranquil1 ->
++00:17:00 tranquil2
++00:21:00 tranquil2 ->
++00:22:00 tranquil3
++00:26:00 tranquil3 ->
++00:27:00 tranquil4
++00:29:00 tranquil4 ->
++00:30:00 alloff

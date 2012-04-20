@@ -1,0 +1,17 @@
+## Diet+::
+## Stimulant (Very Strong)
+## 30 Minutes
+## Diet Plus will not work, in itself, as a way to lose weight. We do not make such claims. However, as a very modified and tested designer stimulate, it can be used to burn away calories by increasing heart rate and metabolism in the body. Combine this with some moderate exercise and a healthy diet, and Diet Plus can greatly enhance a real-work diet regimen. Perfect for those into working out, or just for those without time, but who need a small additional stimulant to keep in check.
+
+prep:		pink/50 150+8/50
+caloric: 	pink/25 150+17/75
+burn:   	pink/0  250+19/100
+alloff:      	-
+
+NOW       prep
++00:02:00 prep ->
++00:03:00 caloric
++00:10:00 caloric ->
++00:15:00 burn
++00:29:00 burn ->
++00:30:00 alloff

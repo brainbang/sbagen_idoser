@@ -1,0 +1,20 @@
+## Beta::
+## Pure (13 to 30 Hz)
+## 30 Minutes
+## This is normally generated when you are awake, with the attention focussed outside, dealing with the outside world. It is also generated when you are solving logical problems, such asmental arithmetic. Alert focusing, vitality, concentration on tasks. Earth resonance. Beta causes an increase mental ability, focus, alertness, and IQ.
+
+h13:  pink/50 100+13/50
+h17:  pink/50 100+17/50
+h25:  pink/50 200+25/50
+h30:  pink/50 400+30/50
+alloff:      -
+
+NOW       h13
++00:05:00 h13 ->
++00:06:00 h17
++00:13:00 h17 ->
++00:14:00 h25
++00:22:00 h25 ->
++00:23:00 h30
++00:28:00 h30 ->
++00:30:00 alloff

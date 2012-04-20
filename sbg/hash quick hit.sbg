@@ -1,0 +1,15 @@
+## Hash - Quick Hit::
+## HashQH is the QuickHit version of our Hash dose. It is designed to give you optimum effects in the least amount of time. Hash will bring on effects of mood lift, euphoria, laughter, relaxation, stress reduction, creative, philosophical or deep thinking - all with much greater effects than marijuana, in a condensed and powerful form.
+
+creative:  pink/10 300+10/90
+euphoria:  pink/5 300+24/95
+zoned: pink/0 300+30/100
+alloff:      -
+
+NOW creative
++00:02:00 creative ->
++00:03:00 euphoria
++00:06:00 euphoria ->
++00:07:00 zoned
++00:09:00 zoned ->
++00:10:00 alloff

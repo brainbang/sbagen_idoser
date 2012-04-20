@@ -1,0 +1,30 @@
+## MarijuanaQH ::
+## MarijuanaQH is the QuickHit version of our Marijuana dose. It is designed to give you optimum effects in the least amount of time.  THC (delta-9-tetrahydrocannabinol): The membranes of certain nerve cells in the brain contain protein receptors that bind to THC. Once securely in place, THC kicks off a series of cellular reactions that ultimately lead to the high that users experience when they smoke marijuana: philosophical or deep thinking, increased appreciation of music, and a pleasant body feel.
+
+alpha10:     pink/70 300+10/30
+somatic6:    pink/60 300+6/40
+somatic9:    pink/50 300+9.6/50
+creative6:   pink/40 300+6/60
+creative10:  pink/30 300+10/70
+euphoria15:  pink/20 300+15/80
+euphoria24:  pink/10 300+24/90
+marijuana30: pink/0 300+30/100
+alloff:      -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 somatic6
++00:09:00 somatic6 ->
++00:10:00 somatic9
++00:15:00 somatic9 ->
++00:16:00 creative6
++00:21:00 creative6 ->
++00:22:00 creative10
++00:27:00 creative10 ->
++00:28:00 euphoria15
++00:33:00 euphoria15 ->
++00:34:00 euphoria24
++00:39:00 euphoria24 ->
++00:40:00 marijuana30
++00:44:00 marijuana30 ->
++00:45:00 alloff

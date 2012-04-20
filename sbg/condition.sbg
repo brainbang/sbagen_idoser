@@ -1,0 +1,14 @@
+## Condition::
+## Brain Conditioner
+## 20 Minutes
+## Many have asked for a dose that will get your brain open and alert, and in the best optimum condition for taking any of our other doses. We have spent a long time perfecting this dose. Take Condition before taking any other dose in our expansive library, and it will prepare your brain to accept the dose more openly. Users have reported a ten percent increase in the effectiveness of doses when they are taken after our Condition dose.
+
+condition1:   pink/50 100+7/50
+condition2:   pink/10 200+13/90
+alloff:      -
+
+NOW condition1
++00:05:00 condition1 ->
++00:10:00 condition2
++00:19:00 condition2 ->
++00:20:00 alloff

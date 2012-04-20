@@ -1,0 +1,20 @@
+## Delta::
+## Pure (0.5 to 4 Hz)
+## 30 Minutes
+## This is normally generated in deep sleep, or when unconsious. Those experienced in deep trance states can generate these waves whilst remaining conscious. Conducive to miracle type healing, divine knowledge, inner being and personal growth, rebirth, trauma recovery, one with the universe experiences (samadhi), near death experience, characterized by unknowing merely a blissful being state such as deep sleep or coma. High level mediation, Delta can assist you reach peak monk-type levels.
+
+h5:   pink/10 100+.5/90
+h1:   pink/20 100+1/80
+h2:   pink/30 200+2/70
+h4:   pink/40 400+4/60
+alloff:      -
+
+NOW       h5
++00:05:00 h5 ->
++00:06:00 h1
++00:13:00 h1 ->
++00:14:00 h2
++00:22:00 h2 ->
++00:23:00 h4
++00:28:00 h4 ->
++00:30:00 alloff

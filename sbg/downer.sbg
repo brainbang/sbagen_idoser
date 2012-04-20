@@ -1,0 +1,14 @@
+## Downer::
+## Sedative (Moderate)
+## 20 Minutes
+## When you want to calm Dooooown. Downer takes your from high to low in 20 minutes flat. Great for use after a stressful day, we have also had many reports that it works good as a recreational drug when you are so tweaked that all you want to do is relax and end the night. It won't put you to sleep, but it WILL calm you, ease you out of your buzzing mind-quake, melt away stress, zone you perfectly, and ease you back. For users who want to calm, but don't want to pass out.
+
+alpha10:   pink/50 300+10/50
+sleep:     pink/20 300+1.5/80
+alloff:    -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:10:00 sleep
++00:19:00 sleep ->
++00:20:00 alloff

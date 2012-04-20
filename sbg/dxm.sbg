@@ -1,0 +1,32 @@
+## DXM::
+## Prescription (VERY Strong)
+## 45 Minutes
+## Dextromethorphan is a semisynthetic narcotic which is legally available over-the-counter in the United States. It is most commonly found in cough suppressants, especially those with "DM" or "Tuss" in their names. Our DXM dose comes very close to achieving the effects of the real thing: mood lift, euphoria, giggling, laughing, dissociation of mind from body, creative dreamlike experiences, and some users report empathic feelings, forgiveness, and warm feelings towards others. Some have even go as far to say that our dose is better than the real thing!
+
+alpha10:     pink/5 300+10/95
+somatic6:    pink/10 300+6/90
+somatic9:    pink/15 300+9.6/80
+creative6:   pink/20 300+6/80
+creative10:  pink/25 300+10/75
+euphoria15:  pink/30 300+15/70
+euphoria24:  pink/35 300+24/65
+marijuana30: pink/40 300+30/60
+alloff:      -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 somatic6
++00:09:00 somatic6 ->
++00:10:00 somatic9
++00:15:00 somatic9 ->
++00:16:00 creative6
++00:21:00 creative6 ->
++00:22:00 creative10
++00:27:00 creative10 ->
++00:28:00 euphoria15
++00:33:00 euphoria15 ->
++00:34:00 euphoria24
++00:39:00 euphoria24 ->
++00:40:00 marijuana30
++00:44:00 marijuana30 ->
++00:45:00 alloff

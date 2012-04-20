@@ -1,0 +1,17 @@
+## Adrenaline::
+## Recreational (Strong)
+## 30 Minutes
+## The term "fight or flight" is often used to characterize the circumstances under which adrenaline is released into the body. It is an early evolutionary adaptation to allow better coping with dangerous and unexpected situations. With dilated blood vessels and air passages, the body is able to pass more blood to the muscles and get more oxygen into the lungs in a timely manner, increasing physical performance for short bursts of time. Our dose gives you the true “fight or flight” experience. Highly effective in any situation where a burst of highly powerful, self-confident, energy is required.
+
+prep:		pink/10 100+8/90
+doorway: 	pink/30 200+13/70
+alert:   	pink/0  400+15/100
+alloff:      	-
+
+NOW       prep
++00:02:00 prep ->
++00:03:00 doorway
++00:10:00 doorway ->
++00:15:00 alert
++00:29:00 alert ->
++00:30:00 alloff

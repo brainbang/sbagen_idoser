@@ -1,0 +1,20 @@
+## Kava::
+## Sedative (Strong)
+## 30 Minutes
+## Kava is a tropical evergreen shrub with large heart-shaped leaves and woody stems. Its thick roots are mashed or ground and made into a cold beverage used similarly to alcohol. It has a long history of ritual and recreational use in Pacific Polynesia and is now a common herbal product. Most users report a slight numbness on their tongue and lips. Not only does kava seem to relax the mind, it also relaxes muscles. Do not characterize the euphoric feeling as being high or drunk. It is definitely a feeling that is like no other.
+
+numb:		pink/50 100+8/50
+relax1:		pink/40 150+10.5/70
+relax2:		pink/20 200+12.2/80
+euphoric:	pink/10 250+13.5/90
+alloff:      	-
+
+NOW       numb
++00:05:00 numb ->
++00:06:00 relax1
++00:13:00 relax1 ->
++00:14:00 relax2
++00:22:00 relax2 ->
++00:23:00 euphoric
++00:28:00 euphoric ->
++00:30:00 alloff

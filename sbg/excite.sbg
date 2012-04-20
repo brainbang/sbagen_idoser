@@ -1,0 +1,26 @@
+## Excite::
+## Sexual (VERY Strong)
+## 50 Minutes
+## Excite is the perfect dose to put you (or your partner) "in the mood." Designed to be used just prior to sexual activity, or to put you in a sexual brain-state, it takes you through several levels of brain activity to leave you fully charged, ready, and "able." Starting from your normal state, it eases you from slight euphoria into somatic responses, tingling, heat and then melts away anxiety to leave you in the Venus state of love, sexuality, sensuality, and harmony. You WILL be ready.
+
+alpha10:      pink/50 300+10/50
+relaxed11:    pink/40 300+11/60
+euphoria15:   pink/30 300+15/70
+lowanxiety25: pink/20 300+25/80
+somatic8:     pink/10 300+8/90
+venus:        pink/0 300+221.23/100
+alloff:       -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:07:00 relaxed11
++00:12:00 relaxed11 ->
++00:14:00 euphoria15
++00:19:00 euphoria15 ->
++00:21:00 lowanxiety25
++00:26:00 lowanxiety25 ->
++00:28:00 somatic8
++00:33:00 somatic8 ->
++00:38:00 venus
++00:48:00 venus ->
++00:50:00 alloff

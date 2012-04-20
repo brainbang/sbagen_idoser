@@ -1,0 +1,21 @@
+## Viagra::
+## Sexual (Strong)
+## 20 Minutes
+## Sildenafil citrate is prescribed in the treatment of Erectile Dysfunction. It is commonly referred to as a "lifestyle drug". Orgasms are initially the same intensity as normal, but the drug allows for new, strong erections minutes after orgasm, and later orgasms are delayed and more intense. Sildenafil is commonly and increasingly used as an aphrodisiac, i.e. to increase sexual desire. Our dose has been designed to be the perfect compliment to sexual activity.
+
+prep:		pink/50 250+10.5/50
+aphro:		pink/30 150+12.3/70
+flex:		pink/20 100+14.5/80
+extend:		pink/10 150+15/90
+euphoria:	pink/0 250+24.5/100
+alloff:		-
+
+NOW prep
++00:02:00 prep ->
++00:04:00 aphro
++00:09:00 aphro ->
++00:11:00 flex ->
++00:16:00 extend ->
++00:17:00 euphoria
++00:19:00 euphoria ->
++00:20:00 alloff

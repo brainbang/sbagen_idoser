@@ -1,0 +1,12 @@
+## Opium Quick Hit::
+## OpiumQH is the QuickHit version of our Opium dose. It is designed to give you optimum effects in the least amount of time. Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. It has a long history of use by humans as an oral and smoked psychoactive. Opium can cause euphoria, followed by a sense of well-being and a calm drowsiness or sedation.
+
+opiate:     pink/50 400+2.5/50
+euphoria:    pink/10 300+.9/90
+alloff:      -
+
+NOW opiate
++00:05:00 opiate ->
++00:06:00 euphoria
++00:09:00 euphoria ->
++00:10:00 alloff

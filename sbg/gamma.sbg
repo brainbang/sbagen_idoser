@@ -1,0 +1,20 @@
+## Gamma::
+## Pure (25.00-34.75 HZ)
+## 30 Minutes
+## Gamma is associated with information-rich task processing and high-level information processing "A New Theory of Consciousness" For scientists who study the human brain, even its simplest act of perception is an event of astonishing intricacy. Gamma brain activity may be a kind of binding mechanism. Gamma waves serve to connect structures in the cortex where advanced information processing occurs, and the thalamus, a lower brain region where complex relay and integrative functions are carried out. Gamma pulses are thought to lead to synchronization and coordination of neurons assigned to the processing of incoming sensory stimulation. Put in computerese, Gamma may be the brain's operating system frequency.
+
+h25:   pink/50 100+25/50
+h27:   pink/50 100+27/50
+h30:   pink/50 200+30/50
+h35:   pink/50 400+35/50
+alloff:      -
+
+NOW       h25
++00:05:00 h25 ->
++00:06:00 h27
++00:13:00 h27 ->
++00:14:00 h30
++00:22:00 h30 ->
++00:23:00 h35
++00:28:00 h35 ->
++00:30:00 alloff

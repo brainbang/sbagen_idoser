@@ -1,0 +1,17 @@
+## AntiSad::
+## Antidepressant (Strong)
+## 30 Minutes
+## We all have those bad days. AntiSad is our strongest antidepressant dose we make, and it if for those days when everything goes wrong. Put on the headphones, listen past the binaural beats as it takes your brain from .30hz to .15hz from your normal alpha 10hz, where bouts of depression wash away. Happiness CAN be obtained!
+
+alpha10: pink/40 300+10/60
+depress3: pink/40 300+.30/60
+depress1:  pink/20 300+.15/80
+alloff:  -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:06:00 depress3
++00:16:00 depress3 ->
++00:20:00 depress1
++00:29:00 depress1 ->
++00:30:00 alloff

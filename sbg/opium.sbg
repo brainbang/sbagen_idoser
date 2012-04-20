@@ -1,0 +1,17 @@
+## Opium::
+## Recreational (Moderate)
+## 30 Minutes
+## THE JOY PLANT! Opium is a naturally occurring analgesic harvested as a latex from ripe Papaver somniferum (opium poppy) pods. It has a long history of use by humans as an oral and smoked psychoactive. Opium can cause euphoria, followed by a sense of well-being and a calm drowsiness or sedation. Breathing slows, time reverses or stops... the world is a haze. While we have not been able to fully emulate the effects of opium, we have come pretty close. A favorite dose of the I-Doser technicians, this could very well be your favorite also!
+
+alpha10:     pink/10 300+10/90
+opiate:       pink/10 300+2.5/90
+euphoria:    pink/10 300+.9/90
+alloff:      -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:07:00 opiate
++00:20:00 opiate ->
++00:22:00 euphoria
++00:29:00 euphoria ->
++00:30:00 alloff

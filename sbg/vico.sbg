@@ -1,0 +1,20 @@
+## Vico::
+## Prescription (VERY STRONG)
+## 30 Minutes
+## Modeled after the effects achieved from a strong dose of Vicodin, this is soon to become one of our most popular prescription doses. It will bring on in waves: improvement of mood, reduction of pain, and extreme euphoria. As the dose nears the end you will feel twinges of light-headedness, sedation, and you will notice a change in focus and attention. Things will drift, lights will fade, and you will feel the massive haze that is one of our most powerful prescription simulations: Vico!
+
+h8:   pink/50 100+8/50
+h10:  pink/40 100+10/70
+h12:  pink/20 200+12/80
+h13:  pink/10 400+13/90
+alloff:      -
+
+NOW       h8
++00:05:00 h8 ->
++00:06:00 h10
++00:13:00 h10 ->
++00:14:00 h12
++00:22:00 h12 ->
++00:23:00 h13
++00:28:00 h13 ->
++00:30:00 alloff
