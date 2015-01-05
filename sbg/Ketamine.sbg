@@ -1,0 +1,26 @@
+## Ketamine
+##
+## Ketamine
+## Hallucinogenic (Strong)
+## 35 Minutes
+## 
+## Ketamine is a dissociative anaesthetic, developed in the mid 1960's, used primarily for veterinary anaesthesiology. Ketamine is used recreationally primarily therapeutic and psychedelic use. Thr effects of this dose range from mild inebriation, dreamy thinking, stumbling, clumsy, or 'robotic' movement, delayed or reduced sensations, vertigo, sometimes erotic feelings, increased sociability, and an interesting sense of seeing the world differently to extreme difficulty moving, complete dissociation, entering complete other realities, classic Near Death Experiences (NDEs), and compelling visions.
+
+prep:		pink/50 300+8.7/50
+tunnel:		pink/50 300+2.5/50
+vision:		pink/50 300+2.7/50
+trip:		pink/20 300+.9/80
+euphorictrip:	pink/10 300+1/90
+alloff:		-
+
+NOW prep
++00:02:00 prep ->
++00:07:00 tunnel
++00:12:00 tunnel ->
++00:13:00 vision
++00:20:00 vision ->
++00:21:00 trip
++00:25:00 trip ->
++00:28:00 euphorictrip
++00:33:00 euphorictrip ->
++00:35:00 alloff

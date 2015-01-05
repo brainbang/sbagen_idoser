@@ -1,0 +1,23 @@
+## ritalin built with _steAlth_'s DRG Author on 03-25-2008
+##
+## Ritalin / Prescription (MODERATE) / 
+## 28 Minutes / Ritalin is a prescription stimulant commonly used to treat Attention-deficit hyperactivity disorder, or ADHD. It is also one of the primary drugs used to treat the daytime drowsiness symptoms of narcolepsy and chronic fatigue syndrome.(have not been tested yet)(95% it will work)
+
+alpha10:  pink/50 300+10/50
+focus:    pink/40 300+15/60
+nohyper:  pink/20 300+12/80
+alpha:    pink/15 300+10/85
+alloff:   -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 focus
++00:09:00 focus ->
++00:11:00 nohyper
++00:20:00 nohyper ->
++00:21:00 alpha
++00:27:00 alpha ->
++00:28:00 alloff
+
+
+

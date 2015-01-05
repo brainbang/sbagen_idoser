@@ -1,0 +1,17 @@
+## Anti-Migraine
+##
+## Anti-Migraine
+## Sedative (Moderate)
+## 20 Minutes
+## 
+## Everybody get headaches, and it is usually just a pop of the aspirin bottle. However, sometimes they are so bad "nothing" helps. This is why we designed Anti-Migraine. For those of you who don't like medication, can't find something that works for those migraines, cluster headaches, or just plain vanilla headaches - this takes you from a normal alpha state to a .5hz migraine-busting level. Sure to bring you some soothing relief!
+
+alpha10:      pink/50 300+10/50
+antihead:     pink/20 300+.5/80
+alloff:       -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:10:00 antihead
++00:19:00 antihead ->
++00:20:00 alloff

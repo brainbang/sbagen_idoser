@@ -1,0 +1,35 @@
+## Hash
+##
+## HASH
+## Recreational (VERY Strong)
+## 45 Minutes
+## 
+## Marijuana is one of most popular doses, but we were getting asked all the time to create something just a little more powerful. For the seasoned dosers, I give you HASH! Stronger than marijuana, hash will bring on effects of mood lift, euphoria, laughter, relaxation, stress reduction, creative, philosophical or deep thinking - all with much greater effects than marijuana, so a warning is in order. Start with our Marijuana dose and ONLY move on to the Hash dose after you are experienced.
+
+alpha10:     pink/10 200+10/90
+somatic6:    pink/10 200+6/90
+somatic9:    pink/10 200+9.6/90
+creative6:   pink/10 200+6/90
+creative10:  pink/5 200+10/95
+euphoria15:  pink/5 200+15/95
+euphoria24:  pink/1 200+24/99
+marijuana30: pink/0 200+30/100
+alloff:      -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 somatic6
++00:09:00 somatic6 ->
++00:10:00 somatic9
++00:15:00 somatic9 ->
++00:16:00 creative6
++00:21:00 creative6 ->
++00:22:00 creative10
++00:27:00 creative10 ->
++00:28:00 euphoria15
++00:33:00 euphoria15 ->
++00:34:00 euphoria24
++00:39:00 euphoria24 ->
++00:40:00 marijuana30
++00:44:00 marijuana30 ->
++00:45:00 alloff

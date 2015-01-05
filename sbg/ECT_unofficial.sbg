@@ -1,0 +1,104 @@
+## ECT built with _steAlth_'s DRG Author on 03-23-2008
+##
+## ECT
+## Antidepressant (Very Strong)
+## 10 Minutes
+## 
+## Electroconvulsive therapy (ECT), also known as electroshock, is a controversial psychiatric treatment in which seizures are electrically induced in anesthetized patients for therapeutic effect. Today, ECT is most often used as a treatment for severe major depression which has not responded to other treatment, and is also used in the treatment of mania, catatonia, schizophrenia and other disorders.
+
+awareness:  pink/80 100+10/20
+recept: pink/20 300+3.5/80
+creative:  pink/10 300+10/90
+alpha:     pink/50 300+10/50
+relaxed:    pink/10 200+11/90
+complex:   pink/50 200+2.5/50
+opiate:   pink/20 200+2.5/60
+doorway: pink/40 200+12/60
+heat: pink/10 300+9.5/90
+euphoria: pink/5 200+.9/90
+somatic:    pink/50 300+6/50
+euphoria:  pink/5 300+24/95
+helio:  pink/20 300+4/80
+euphoria:    pink/10 300+.9/90
+vision1:  pink/10 300+3/90
+vision:  pink/10 200+3/70
+heat: pink/10 300+9.5/90
+rush:     pink/5 300+14/95
+vision2:  pink/05 250+4/95
+doorway: pink/40 200+12/60
+vision:  pink/10 200+3/70
+venus: pink/2 300+221.23/98
+somatic:    pink/50 300+6/50
+opiate:     pink/50 400+2.5/50
+helio:  pink/20 300+4/80
+alert:   pink/10 400+14/90
+euphoria: pink/30 200+.9/70
+high:  pink/0 100+24/300
+euphoria: pink/0 200+.9/100
+gaze: pink/5 200+.9/95
+vision2:  pink/05 250+4/95
+zoned: pink/0 300+30/100
+euphoria: pink/0 200+.9/100
+euphoria: pink/30 200+.9/70
+lowanxiety: pink/05 300+25/95
+euphoria:   pink/10 300+15/90
+alert:   pink/10 400+14/90
+venus: pink/2 300+221.23/98
+zoned: pink/0 300+30/100
+high:  pink/0 100+24/300
+euphoria:    pink/10 300+.9/90
+lowanxiety: pink/05 300+25/95
+gaze: pink/5 200+.9/95
+rush:     pink/5 300+14/95
+euphoria:  pink/5 300+24/95
+alloff:  -
+
+NOW awareness
++00:02:00 awareness ->
++00:02:12 recept ->
++00:02:18 creative ->
++00:02:24 alpha ->
++00:02:36 relaxed ->
++00:02:42 complex ->
++00:03:00 opiate ->
++00:03:06 doorway ->
++00:03:12 heat ->
++00:03:18 euphoria ->
++00:03:24 somatic ->
++00:03:36 euphoria ->
++00:03:42 helio ->
++00:03:48 euphoria ->
++00:03:54 vision1 ->
++00:04:00 vision ->
++00:04:12 heat ->
++00:04:48 rush ->
++00:04:54 vision2 ->
++00:05:00 doorway ->
++00:05:06 vision ->
++00:05:12 venus ->
++00:05:24 somatic ->
++00:05:30 opiate ->
++00:05:42 helio ->
++00:06:06 alert ->
++00:06:18 euphoria ->
++00:06:24 high ->
++00:06:30 euphoria ->
++00:06:42 gaze ->
++00:06:54 vision2 ->
++00:07:00 zoned ->
++00:07:36 euphoria ->
++00:07:54 euphoria ->
++00:08:00 lowanxiety ->
++00:09:00 euphoria ->
++00:09:06 alert ->
++00:09:12 venus ->
++00:09:18 zoned ->
++00:09:24 high ->
++00:09:30 euphoria ->
++00:09:36 lowanxiety ->
++00:09:42 gaze ->
++00:09:48 rush ->
++00:09:54 euphoria ->
++00:10:00 alloff
+
+

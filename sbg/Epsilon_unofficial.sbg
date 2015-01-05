@@ -1,0 +1,26 @@
+## Epsilon built with _steAlth_'s DRG Author on 03-26-2008
+##
+## Epsilon / Pure (0.1 to 0.5 Hz) / 37 Minutes / The Epsilon wave is a combination of specific binaurally generated brainwaves of very low frequency. Help coordinate left and right brain activity - creating A-HA states. It induce very deep, extraordinary states of consciousness and advanced  states of meditation.  Create nirvanic and samhadhi experience, Lead to spiritual insight
+## Create spontaneous out of body experiences and it is also associated with ecstatic states of consciousness, high-level inspiration states and Yogic states of suspended animation.(have not been tested yet)(99% that it will work)  
+## 
+
+h1:  pink/50 100+.1/50
+h2:  pink/50 100+.2/50
+h3:  pink/50 200+.3/50
+h4:  pink/50 300+.4/50
+h5:  pink/50 400+.5/50
+alloff:  -
+
+NOW h1
++00:05:00 h1 ->
++00:06:00 h2
++00:13:00 h2 ->
++00:14:00 h3
++00:22:00 h3 ->
++00:23:00 h4
++00:28:00 h4 ->
++00:30:00 h5
++00:35:00 h5 ->
++00:37:00 alloff
+
+

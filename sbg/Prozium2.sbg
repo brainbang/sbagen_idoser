@@ -1,0 +1,23 @@
+## Prozium
+##
+## Prozium
+## Stimulant (VERY STRONG)
+## 30 Minutes
+## 
+## The ups and downs of life can hurt. People can feel happy, sad, depressed, all over an entire gambit of moods and stimulations. Prozium is the answer to an evened-out life, mellow and secure, and able to deal with any of the barriers life can throw in front of you. Do you feel angry? Prozium. Do you feel sad? Prozium. Is something just a little off with you today! PROZIUM! Even out your entire day, and be ready for anything. Dose it in the morning, and drift through the day with ease and confidence. Dose it at night, and be able to deal with the trials and tribulations or family, relationships, or inner chaos. This dose will smooth over your soul. You will never feel so even.
+
+h8:   pink/50 100+8/50
+h10:  pink/50 100+10/50
+h12:  pink/50 200+12/50
+h13:  pink/50 400+13/50
+alloff:      -
+
+NOW       h8
++00:05:00 h8 ->
++00:06:00 h10
++00:13:00 h10 ->
++00:14:00 h12
++00:22:00 h12 ->
++00:23:00 h13
++00:28:00 h13 ->
++00:30:00 alloff

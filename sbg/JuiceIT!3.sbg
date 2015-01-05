@@ -1,0 +1,23 @@
+## JuiceIT!
+##
+## JuiceIT!
+## Steroid (Moderate)
+## 30 Minutes
+## 
+## JuiceIT! was designed for the sports or workout user. If flows through 3 levels to finely tune you as a preparation for workout or sports activity. At 3hz, your reaction time greatly increases. At 3.5hz there is an "Enhancement of Receptivity," and finally at 6.3hz there is an increase in accelerated learning. Use JuiceIT! When used just prior to sports or workouts, we found it to profoundly affect our performance! The PERFECT supplement for sports users who do not want to use chemicals or steroids, this is as close as you can get to the real thing. When competition is high, kick it into high gear!
+
+alpha10: pink/60 300+10/40
+reaction: pink/50 300+3/50
+recept: pink/40 300+3.5/60
+learning: pink/30 300+6.3/70
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:05:00 reaction
++00:14:00 reaction ->
++00:15:00 recept
++00:20:00 recept ->
++00:22:00 learning
++00:29:00 learning ->
++00:30:00 alloff

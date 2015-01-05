@@ -1,0 +1,23 @@
+## 5HTP
+##
+## 5HTP
+## Antidepressant (Moderate)
+## 25 Minutes
+## 
+## Do you know your brain makes "happy hormones?" 5HTP is an amino acid that is used in the brain to make the hormone Serotonin, which is your HAPPY Hormone. We desinged the 5HTP dose to assist your master hormone gland, the pineal gland that makes Melatonin at night and Serotonin during the day. When these two hormones get out of balance, wee feel depressed during the day and cannot sleep well at night. A guaranteed formula for stress. Let our 5HTP dose put things back in the norm. Best taken in the morning when you wake and/or at night before sleep, 5HTP will re-level your hormones and help you feel happy again!
+
+alpha10: pink/40 300+10/60
+alpha12: pink/40 300+12.25/60
+theta7:  pink/40 300+7.75/60
+theta4:  pink/5 300+4.75/95
+alloff:  -
+
+NOW alpha10
++00:05:00 alpha10 ->
++00:06:00 alpha12
++00:11:00 alpha12 ->
++00:12:00 theta7
++00:17:00 theta7 ->
++00:18:00 theta4
++00:24:00 theta4 ->
++00:25:00 alloff

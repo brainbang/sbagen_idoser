@@ -1,0 +1,24 @@
+## Crack built with _steAlth_'s DRG Author on 03-25-2008
+##
+## Crack / Recreational (VERY STRONG) / 26 Minutes /  Crack is a solid, smokable form of cocaine and is a highly addictive drug popular for its intense psychoactive high. It is a freebase form of cocaine that is made using baking soda (sodium bicarbonate) in a process to convert cocaine hydrochloride (powder cocaine) into methylbenzoylecgonine (freebase cocaine). And crack is stronger than cocain. (have not been tested yet)(85% it will work)
+
+heat:   pink/30 100+9.6/70
+alpha:  pink/30 100+10/70
+door:   pink/30 200+12/70
+visual: pink/30 200+13/70
+alert:  pink/20 400+14/80
+alloff:     -
+
+NOW heat
++00:03:00 heat ->
++00:04:00 alpha
++00:06:00 alpha ->
++00:07:00 door
++00:09:00 door ->
++00:10:00 visual
++00:16:00 visual ->
++00:17:00 alert
++00:25:00 alert ->
++00:26:00 alloff
+
+

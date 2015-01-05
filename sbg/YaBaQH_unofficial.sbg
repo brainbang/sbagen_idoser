@@ -1,0 +1,19 @@
+## YaBaQH built with _steAlth_'s DRG Author on 03-25-2008
+##
+## YaBaQH / Recreational (VERY STRONG) / 10 Minutes / YaBaQH is the QuickHit version of our YaBa dose. It is known as crazy medicine. This dose, which creates an intense hallucinogenic effect and can enable users to stay aware, alert, and awake, makes for a powerful one-two punch: hallucinogenic + stimulant = YaBa. You will have an extreme sense of alert while experiencing some hallucinogenic effects such as sound distortion, vivid colors, and visual effects. The combination of these two types of doses can have different effects on the user, but on thing is sure: it has the potential to be a very powerful combination, so please use with caution. CRAZY MEDICINE!
+## (have not been tested yet)(98% it will work)
+
+awareness:  pink/80 100+10/20
+doorway: pink/40 200+12/60
+alert:   pink/10 400+14/90
+alloff:      -
+
+NOW       awareness
++00:02:00 awareness ->
++00:03:00 doorway
++00:05:00 doorway ->
++00:06:00 alert
++00:09:00 alert ->
++00:10:00 alloff
+
+

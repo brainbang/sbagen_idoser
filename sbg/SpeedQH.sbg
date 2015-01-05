@@ -1,0 +1,13 @@
+## SpeedQH
+##
+## SpeedQH is the QuickHit version of our Speed dose. It is designed to give you optimum effects in the least amount of time. Expect increased energy and alertness, a decreased need for sleep, euphoria, increased sexuality, and visual & auditory hallucinations.
+
+euphoria: pink/30 200+.9/70
+rush:     pink/5 300+14/95
+alloff:   -
+
+NOW euphoria
++00:03:00 euphoria ->
++00:04:00 rush
++00:09:00 rush ->
++00:10:00 alloff
