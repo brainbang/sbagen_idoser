@@ -1,12 +1,12 @@
 I-Doser [illegally sold a compiled-only version of SBAGen], an open-source utility for synchronizing brainwaves.  The I-Doser data files have been decrypted. This means that you can use a command-line [SBaGen for Mac, Windows, and Linux] to play the files or generate WAV files. You can also get an [android version], and listen to them on the go.
 
-If you get excited by this idea, you might wanna checkout [this](http://www.brain-bang.com/drg2sba/) which does the conversion for you, without anything installed!
+If you get excited by this idea, you might wanna checkout [this](https://github.com/brainbang/drg2sba) which does the conversion for you, without anything installed!
 
 ## Usage On A Computer
 
 Download [SBaGen for Mac, Windows, and Linux], and put the sbg directory from this repo in the same folder as sbagen binary. Run it on the command-line, from that directory, like this:
 
-    ./sbagen sbg/lsd.sbg
+    ./sbagen lsd.sbg
 
 
 ## Usage On Android Phone
