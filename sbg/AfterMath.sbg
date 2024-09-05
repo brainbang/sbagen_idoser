@@ -1,0 +1,23 @@
+## AfterMath
+##
+## AfterMath
+## Stimulant (VERY STRONG)
+## 30 Minutes
+## 
+## This is a new designer drug that hits hard. There is no mellow upbring like many of our doses have - this one rocks, and doesn't let up until it is over. Prepare for a feeling of well-being, exhilaration and euphoria, with a massive increase in alertness and energy as any fatigue gets wiped from your body... you will actually go through such a rush that it leaves you bombed. This is why we call this hot designer dose AFTERMATH!
+
+h5:   pink/0 100+.5/90
+h1:   pink/0 100+1/80
+h2:   pink/0 200+2/70
+h4:   pink/0 400+4/100
+alloff:      -
+
+NOW       h5
++00:05:00 h5 ->
++00:06:00 h1
++00:13:00 h1 ->
++00:14:00 h2
++00:22:00 h2 ->
++00:23:00 h4
++00:28:00 h4 ->
++00:30:00 alloff

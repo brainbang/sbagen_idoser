@@ -1,0 +1,23 @@
+## QUIT!
+##
+## QUIT!
+## Experimental (Moderate)
+## 30 Minutes
+## 
+## The simple fact is, when between 4hz and 6hz the human brain is in a state of "attiude and behavior change." As we start to raise you just above, at the 8hz mark, it seems to trigger synapsis to aid in the quitting of addictions. We started to experiment with several users who were in the process of quitting cigarettes, and most found that while using this dose either during an addiction crave, or as a preventative measure, it greatly aided them in getting over the horrible addiction of cigarettes. While not a cure-all by any means, we have heard very good things about this dose when combined with pure human will-power. Maybe it can help you quit once and for all!
+
+alpha10: pink/40 300+10/60
+behave4: pink/20 300+4/80
+behave6: pink/20 300+6/80
+addict8: pink/10 300+8/90
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 behave4
++00:09:00 behave4 ->
++00:10:00 behave6
++00:14:00 behave6 ->
++00:15:00 addict8
++00:29:00 addict8 ->
++00:30:00 alloff

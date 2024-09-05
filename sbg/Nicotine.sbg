@@ -1,0 +1,23 @@
+## Nicotine
+##
+## Nicotine
+## Recreational (Moderate)
+## 30 Minutes
+## 
+## Nicotine changes how your brain and your body function. The net results are somewhat of a paradox: Nicotine can both invigorate and relax. Nicotine initially causes a rapid release of adrenaline, the "fight-or-flight" hormone. If you've ever jumped in fright at a scary movie or rushed around the office trying to finish a project by your deadline, you may be familiar with adrenaline's effects: rapid heartbeat, increased blood pressure and shallow breathing  this will quickly mellow as the nicotine dose wears off. The nicotine dose brings the initial onset of an actual cigarette without the harmful side effects.
+
+alpha10: pink/40 200+10/60
+behave4: pink/10 200+4/90
+behave6: pink/5 200+6/95
+addict8: pink/0 200+8/100
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:04:00 behave4
++00:09:00 behave4 ->
++00:10:00 behave6
++00:14:00 behave6 ->
++00:15:00 addict8
++00:29:00 addict8 ->
++00:30:00 alloff
