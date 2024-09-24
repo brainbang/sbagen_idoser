@@ -1,0 +1,48 @@
+## Memory+ built with _steAlth_'s DRG Author on 04-26-2010
+##
+## Memory+
+## 
+## Experimental (Very Strong)
+## 
+## 35 Minutes
+## 
+## Memory+ serves as an extreme challenge. This sequence was designed to 
+## be used frequently to slowly improve memory brain capacity. After 
+## extended use you may experience an increased ability to store, retain 
+## and recall information. It is the method and depth of processing that 
+## affects how an experience is stored in memory. Memory+ attempts to 
+## improve processing, rewire capacity, and clear static thought through 
+## extended use. This dose can be an asset to everyday life with overall 
+## general improvement through clarity.
+
+# Memory+
+
+# Experimental (Very Strong)
+
+# 35 Minutes
+#
+# Memory+ serves as an extreme challenge. This sequence was designed to 
+# be used frequently to slowly improve memory brain capacity. After 
+# extended use you may experience an increased ability to store, retain 
+# and recall information. It is the method and depth of processing that 
+# affects how an experience is stored in memory. Memory+ attempts to 
+# improve processing, rewire capacity, and clear static thought through 
+# extended use. This dose can be an asset to everyday life with overall 
+# general improvement through clarity.
+
+
+k137:  pink/50 100+13.7/50
+k172:  pink/50 100+17.2/50
+k255:  pink/50 200+25.5/50
+k302:  pink/50 400+30.2/50
+alloff:      -
+
+NOW       k137
++00:05:00 k137 ->
++00:06:00 k172
++00:13:00 k172 ->
++00:14:00 k255
++00:22:00 k255 ->
++00:23:00 k302
++00:28:00 k302 ->
++00:35:00 alloff

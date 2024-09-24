@@ -1,0 +1,20 @@
+## Inhalant
+##
+## Inhalant
+## Recreational (VERY STRONG)
+## 30 Minutes
+## 
+## Inhalants are either chemicals in gaseous form or volatile solvents (liquids) that becomes gas at the time of use, which are inhaled by people for their psychoactive effects. Our understanding of the literature is that there is no such thing as safe use of most volatile solvents, aerosols or other street inhalants: their psychoactive effects may be inseparable from nerve and organ damage, so we've created a safe alternative. You will feel dizzy, and it will be a wild and crazy ride, so hold on tight.
+
+sleepy8hz:   pink/50 100+8/50
+sleepy10hz:  pink/50 200+10/50
+doorway12hz: pink/0 200+12/5100
+alert14hz:   pink/0 400+14/100
+alloff:      -
+
+NOW       sleepy8hz
++00:02:00 sleepy10hz
++00:10:00 doorway12hz
++00:20:00 alert14hz
++00:28:00 alert14hz ->
++00:30:00 alloff

@@ -1,0 +1,26 @@
+## Acid
+##
+## ACID
+## Recreational (Very Strong)
+## 30 Minutes
+## 
+## The acid dose recreates the psychoactive experience: general change in consciousness, difficulty focusing, unusual body sensations (facial flushing, chills, goose bumps, body energy), unusual thoughts and speech, change in perception of time, quickly changing emotions (happiness, fear, giddiness, anxiety, anger, joy, irritation), slight increase in body temperature and a feeling of unity will abound as this dose rushes through the paces. This dose will come on very strong, with an initial burst followed by a stream of conscious mellowing that fades into bliss. The first bump is a big one, and quite jarring, so be prepared for the ride of your life.
+
+alpha10:  pink/10 200+10/50
+opiate:   pink/20 200+2.5/60
+vision3:  pink/25 200+3/70
+vision4:  pink/30 200+4/80
+euphoria: pink/35 200+.9/90
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:07:00 opiate
++00:12:00 opiate ->
++00:13:00 vision3
++00:20:00 vision3 ->
++00:21:00 vision4
++00:25:00 vision4 ->
++00:28:00 euphoria
++00:29:00 euphoria ->
++00:30:00 alloff

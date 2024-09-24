@@ -1,0 +1,29 @@
+## Serene
+##
+## Serene
+## Sedative (Moderate)
+## 30 Minutes
+## 
+## A quite day when nobody is around, just you and your thoughts, is what we attempt to achieve with this dose. You give all to life, so it is time to take back just a few calm minutes to yourself when you will feel like everything is well, and your troubles vanish for just a short time. The mind-static that the general hassles of life can bring you simply melt away as your brain is toned to the perfect frequency until you are simply calm, peaceful, composed - serene.
+
+alpha10:      pink/90 300+10/10
+tranquil5:    pink/80 200+.5/20
+tranquil1:    pink/70 300+1/30
+tranquil2:    pink/40 200+2/60
+tranquil3:    pink/20 300+3/80
+tranquil4:    pink/5 200+4/95
+alloff:       -
+
+NOW alpha10
++00:03:00 alpha10 ->
++00:07:00 tranquil5
++00:11:00 tranquil5 ->
++00:12:00 tranquil1
++00:16:00 tranquil1 ->
++00:17:00 tranquil2
++00:21:00 tranquil2 ->
++00:22:00 tranquil3
++00:26:00 tranquil3 ->
++00:27:00 tranquil4
++00:29:00 tranquil4 ->
++00:30:00 alloff

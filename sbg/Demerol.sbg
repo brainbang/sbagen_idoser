@@ -1,0 +1,29 @@
+## Demerol
+##
+## Demerol
+## Sedative (Very Strong)
+## 30 Minutes
+## 
+## Demerol is a synthetic opioid analgesic used for the relief of moderate to severe pain. It is also prescribed off-label for the treatment of shivering. Our Demerol dose is felt 10-15 minutes after the dose begins and lasts anywhere from 2 to 4 hours. It will slows your brain activity and brings on strong sedation and euphoria because it hits the pleasure centers of the brain in a soothing slow come-on with no harsh aftereffects. This dose is best described as smooth.
+
+alpha10:      pink/50 300+10/50
+tranquil5:    pink/40 300+.5/60
+tranquil1:    pink/30 300+1/70
+tranquil2:    pink/20 300+2/80
+tranquil3:    pink/10 300+3/90
+tranquil4:    pink/0 300+4/100
+alloff:       -
+
+NOW alpha10
++00:03:00 alpha10 ->
++00:07:00 tranquil5
++00:11:00 tranquil5 ->
++00:12:00 tranquil1
++00:16:00 tranquil1 ->
++00:17:00 tranquil2
++00:21:00 tranquil2 ->
++00:22:00 tranquil3
++00:26:00 tranquil3 ->
++00:27:00 tranquil4
++00:29:00 tranquil4 ->
++00:30:00 alloff

@@ -1,0 +1,19 @@
+## Energizer
+##
+## Energizer
+## Stimulant (VERY STRONG)
+## 30 Minutes
+## 
+## When you need a little pick me up, you try coffee. When you need to be completely wired, use our Energizer dose! Popular with students and those who need to sometimes pull "all nighters," our Energizer dose was designed to keep you going until the sun comes up with very little crash. Forget the energy drinks and coffee, our Energizer dose is the pure and nature way to stay awake when you just don't have the luxury of sleep.
+
+sleepy8hz:   pink/50 100+8/50
+sleepy10hz:  pink/40 100+10/60
+doorway12hz: pink/30 200+12/70
+alert14hz:   pink/20 400+14/80
+alloff:      -
+
+NOW       sleepy8hz
++00:02:00 sleepy10hz
++00:03:00 doorway12hz
++00:29:00 alert14hz ->
++00:30:00 alloff

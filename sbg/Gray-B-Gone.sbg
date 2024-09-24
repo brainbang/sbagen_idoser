@@ -1,0 +1,17 @@
+## Gray-B-Gone
+##
+## Gray-B-Gone
+## Experimental (Moderate)
+## 30 Minutes
+## 
+## We are not going to lie: Grey-B-Gone will not bring a head of gray hair back to color. This is an experimental dose for a reason: at 1.05hz the brain triggers the release of our growth hormones. In various labs, over extended use, binaural technicians have found that this forced release of growth hormone has brought intriguing reports of some gray hair returning to its original color, or the seemingly slowing of gray hair growth. This seems to happen when the user is subjected only to longer doses at the 1.05hz mark. Use at your own risk, we offer Grey-B-Gone as an Experimental dose.
+
+alpha10: pink/40 300+10/60
+grey: pink/20 300+1.05/80
+alloff:  -
+
+NOW alpha10
++00:02:00 alpha10 ->
++00:05:00 grey
++00:29:00 grey ->
++00:30:00 alloff
