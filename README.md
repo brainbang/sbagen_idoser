@@ -13,9 +13,6 @@ Download [SBaGen for Mac, Windows, and Linux], and put the sbg directory from th
 
 Download the app using this which is [this open-source sbagen android app]. Make sure you can install unsigned applications (in your phone's settings.) Put the sbg folder on your phone's SD card, and run the app. Locate the sbg folder, and choose an idoser file. Press the button at the bottom of the "Sequence" tab to run it.
 
-Here is a qr for super-easy download:
-![qr-code](https://github.com/user-attachments/assets/df71c39b-7914-46e3-ad87-3d357046679b)
-
 [SBaGen for Mac, Windows, and Linux]: http://uazu.net/sbagen/#download
 [android version]: http://www.normalesup.org/~george/comp/binaural_player/
 [illegally sold a compiled-only version of SBAGen]: http://uazu.net/sbagen/i-doser.html
