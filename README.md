@@ -1,19 +1,10 @@
-I-Doser [illegally sold a compiled-only version of SBAGen], an open-source utility for synchronizing brainwaves.  The I-Doser data files have been decrypted. This means that you can use a command-line [SBaGen for Mac, Windows, and Linux] to play the files or generate WAV files. You can also get an [android version], and listen to them on the go.
+I-Doser [illegally sold a compiled-only version of SBAGen], an open-source utility for synchronizing brainwaves.  The I-Doser configuration files have been decoded.
+
+This means you can use several free/open-source players:
+
+- [Original CLI version (mac/windows/linux)](http://uazu.net/sbagen/#download)
+- [Web](https://brainbang.github.io/sbagen-web/)
+- [Android](http://www.normalesup.org/~george/comp/binaural_player/)
 
 If you get excited by this idea, you might wanna checkout [this](https://github.com/brainbang/drg2sba) which does the conversion for you, without anything installed!
 
-## Usage On A Computer
-
-Download [SBaGen for Mac, Windows, and Linux], and put the sbg directory from this repo in the same folder as sbagen binary. Run it on the command-line, from that directory, like this:
-
-    ./sbagen lsd.sbg
-
-
-## Usage On Android Phone
-
-Download the app using this which is [this open-source sbagen android app]. Make sure you can install unsigned applications (in your phone's settings.) Put the sbg folder on your phone's SD card, and run the app. Locate the sbg folder, and choose an idoser file. Press the button at the bottom of the "Sequence" tab to run it.
-
-[SBaGen for Mac, Windows, and Linux]: http://uazu.net/sbagen/#download
-[android version]: http://www.normalesup.org/~george/comp/binaural_player/
-[illegally sold a compiled-only version of SBAGen]: http://uazu.net/sbagen/i-doser.html
-[this open-source sbagen android app]: http://www.normalesup.org/~george/comp/binaural_player/
